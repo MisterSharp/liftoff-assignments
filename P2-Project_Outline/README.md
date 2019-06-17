@@ -18,6 +18,8 @@ Property Manager(Tentative name) - This will be a web app that will be a hub for
 -Java
 -Spring
 -Thymeleaf
+-mySQL
+-HTML/CSS
 -Javascript?
 
 ### What I'll Have to Learn
